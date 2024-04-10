@@ -111,7 +111,7 @@ function Clientes(){
     <Card 
       style={{minHeight:"100%"}} 
       title='Clientes' 
-    >
+    > 
     <Flex justify="space-between">
       <Button type="primary" onClick={()=>setOpenNuevo({open:true})}>
         <PlusOutlined /> Nuevo
